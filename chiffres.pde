@@ -10,14 +10,14 @@ void setup(){
 
 
 void formattedPhoneNumber (String phoneNumber){
- for (int i = 0; i < 12; i++){
+ 
   if (phoneNumber.equals("0629929289")) {
  println("Success !");
  }
  else {
    println("Error !");
  }
+
 }
- }
   
  
